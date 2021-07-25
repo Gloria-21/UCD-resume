@@ -31,6 +31,6 @@ function initMap() {
     });
 
     var markerCluster = new MarkerClusterer(map, markers, {
-        imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'
+        'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'
     });
 }
