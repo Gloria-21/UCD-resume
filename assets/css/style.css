@@ -375,6 +375,7 @@ button[type="submit"] {
 /*---------------Maps*/
 div#map {
     min-height: 360px;
+    width: 100%;
 }
 
 /*---------------Media Query*/
